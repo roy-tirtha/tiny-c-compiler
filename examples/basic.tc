@@ -1,0 +1,7 @@
+int age = 20;
+int score;
+score = 95;
+float temperature = 36.5;
+print(age);
+print(score);
+print(temperature);

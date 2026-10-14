@@ -1,0 +1,4 @@
+int result = 2 + 3 * 4;
+int value = (10 - 2) / 2;
+print(result);
+print(value);
